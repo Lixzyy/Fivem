@@ -9,24 +9,24 @@
 --------- LOGS ---------
 Config = {
     webhook = {
-        Staffmodeon = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",      -- MODE STAFF ON
-        Staffmodeoff = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",     -- MODE STAFF OFF
-        Jail = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        UnJail = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        teleport = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        teleportTo = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        revive = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        teleportcoords = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        teleporttoit = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        message = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        annonce = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        SavellPlayerAuto = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",-- SAVE TOUT LES JOUEURS
-        clearInv = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",        -- CLEAR INVENTAIRE
-        clearLoadout = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",    -- CLEAR ARME
-        WipePlayer = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        kick = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",
-        SendLogs = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0",        -- GENERAL LOGS
-        report = "https://discord.com/api/webhooks/1467247802592788520/dWGVvzKwvu5CI6PhuL9rF_eVvVR5aS8XMDSujQC6y5be9PdLDIjjamQxwmW-sQe7p3J0" -- Remplacez par votre webhook Discord (ex: https://discord.com/api/webhooks/... )
+        Staffmodeon = "https://discord.com/api/webhooks/",      -- MODE STAFF ON
+        Staffmodeoff = "https://discord.com/api/webhooks/",     -- MODE STAFF OFF
+        Jail = "https://discord.com/api/webhooks/",
+        UnJail = "https://discord.com/api/webhooks/",
+        teleport = "https://discord.com/api/webhooks/",
+        teleportTo = "https://discord.com/api/webhooks/",
+        revive = "https://discord.com/api/webhooks/",
+        teleportcoords = "https://discord.com/api/webhooks/",
+        teleporttoit = "https://discord.com/api/webhooks/",
+        message = "https://discord.com/api/webhooks/",
+        annonce = "https://discord.com/api/webhooks/",
+        SavellPlayerAuto = "https://discord.com/api/webhooks/",-- SAVE TOUT LES JOUEURS
+        clearInv = "https://discord.com/api/webhooks/",        -- CLEAR INVENTAIRE
+        clearLoadout = "https://discord.com/api/webhooks/",    -- CLEAR ARME
+        WipePlayer = "https://discord.com/api/webhooks/",
+        kick = "https://discord.com/api/webhooks/",
+        SendLogs = "https://discord.com/api/webhooks/",        -- GENERAL LOGS
+        report = "https://discord.com/api/webhooks/"
     }
 }
 
