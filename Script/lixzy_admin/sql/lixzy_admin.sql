@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS jail (
+	identifier VARCHAR(100) NOT NULL,
+	jail_time int(10) NOT NULL,
+	PRIMARY KEY (identifier)
+);
+
+CREATE TABLE IF NOT EXISTS reports (
+	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	reporter_identifier VARCHAR(100) NOT NULL,
+	reporter_source INT NOT NULL,
+	reporter_name VARCHAR(100) NOT NULL,
+	reason TEXT NOT NULL,
+	created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
