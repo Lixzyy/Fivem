@@ -1,0 +1,2 @@
+-- Event registrations are in server/main, this file is kept for modularity for future expansion.
+-- You can move NetEvents here if you want to scale further.
