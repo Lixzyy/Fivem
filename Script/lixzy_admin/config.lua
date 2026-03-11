@@ -2,7 +2,7 @@
                                          
 
 -------- EXEMPLE ------------------------------
--- ↓ LA LOGS (pas toucher!!)↓      ↓WEEBOK↓
+--         ↓WEEBOK↓
 --        Staffmodeon    =      "CHANGER",
 ------------------------------------------------
 
